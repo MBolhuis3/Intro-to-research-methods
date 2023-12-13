@@ -1,5 +1,7 @@
 # Intro-to-research-methods
-Github for intro to research methods course
+Description: My project is about researching if people who use internet slang have more followers on social media than people who don't. If this is true, people who have a lot of followers spread the use of internet slang amongst others through social media and that could affect the usage of language especially amongst young people who use social media a lot.
+
+Relevant literature: 
 
 Research question: Do people who use internet slang have more followers on social media than people who don’t use internet slang?
 
